@@ -6,6 +6,6 @@
     [x] ImageLoader
     [ ] Movements (UP,DOWN,LEFT,RIGHT,JUMP)
     [ ] 
-    
-    # How to start
-        Just build and run main.cpp.
+   
+### How to start
+      Just build and run main.cpp.
